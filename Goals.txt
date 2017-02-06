@@ -1,0 +1,43 @@
+Beer Quest is a rpg game where you are a grand blacksmith who runs the towns forge.
+your job to make gold by crafting weapons and armor for adventures
+you can also hire adventures in the tavern to bring back special ores to craft powerful weapon and armor
+
+Goals are down below what needs to be finish and what is finish
+
+[O]BLACKSMITH
+    [O]LAYOUT
+    [O]SIZE
+    [O]TOOLS
+    [O]ASSISTANT
+
+[O]TAVERN
+    [O]LAYOUT OF MISSIONS
+    [O]DRINKS
+    [O]SIZE
+    [O]FORTUNES
+
+[O]CRAFTING
+   [O]ARMOR
+   [O]WEAPON
+   [O]CLASS OF WEAPONS
+   [O]
+
+[O]TIME
+    [O]DAY AND NIGHT
+    [O]ORDERS
+    [O]
+    [O]
+
+[O]BLACKSMITHING ORDERS
+    [O]IRON
+    [O]WOOD
+    [O]RARE ORES
+    [O]LEGENDARY ORES
+
+[O]TAVERN HEROS
+    [O]TYPES OF HEROS
+    [O]TYPES OF ABILITIES
+    [O]RARE HEROS
+    [O]EPIC HEROS
+    [O]LEGENDARY HEROS
+
